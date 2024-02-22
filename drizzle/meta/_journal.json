@@ -1,0 +1,34 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1708610289232,
+      "tag": "0000_broad_santa_claus",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1708610397042,
+      "tag": "0001_zippy_anita_blake",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1708610874230,
+      "tag": "0002_wandering_whizzer",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "5",
+      "when": 1708611259392,
+      "tag": "0003_smooth_paper_doll",
+      "breakpoints": true
+    }
+  ]
+}
