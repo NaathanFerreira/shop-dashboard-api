@@ -5,29 +5,15 @@
     {
       "idx": 0,
       "version": "5",
-      "when": 1708610289232,
-      "tag": "0000_broad_santa_claus",
+      "when": 1708695846292,
+      "tag": "0000_adorable_inertia",
       "breakpoints": true
     },
     {
       "idx": 1,
       "version": "5",
-      "when": 1708610397042,
-      "tag": "0001_zippy_anita_blake",
-      "breakpoints": true
-    },
-    {
-      "idx": 2,
-      "version": "5",
-      "when": 1708610874230,
-      "tag": "0002_wandering_whizzer",
-      "breakpoints": true
-    },
-    {
-      "idx": 3,
-      "version": "5",
-      "when": 1708611259392,
-      "tag": "0003_smooth_paper_doll",
+      "when": 1708969059380,
+      "tag": "0001_polite_spiral",
       "breakpoints": true
     }
   ]
