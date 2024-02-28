@@ -20,11 +20,6 @@ const app = new Elysia()
 
         return error.toResponse()
       }
-      default: {
-        console.error(error)
-
-        return new Response(null, { status: 500 })
-      }
     }
   })
 
