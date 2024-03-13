@@ -15,6 +15,20 @@
       "when": 1708969059380,
       "tag": "0001_polite_spiral",
       "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1710350944062,
+      "tag": "0002_crazy_lord_tyger",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "5",
+      "when": 1710352911119,
+      "tag": "0003_short_swarm",
+      "breakpoints": true
     }
   ]
 }
