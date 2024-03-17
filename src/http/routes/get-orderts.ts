@@ -12,8 +12,6 @@ export const getOrders = new Elysia().use(auth).get(
     const { restaurantId } = await getCurrentUser()
     const { customerName, orderId, status, pageIndex } = query
 
-    console.log(restaurantId)
-
     if (!restaurantId) {
       throw new UnauthorizedError()
     }
